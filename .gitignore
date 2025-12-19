@@ -26,3 +26,6 @@ datasets/
 
 # macOS system files
 .DS_Store
+
+*.txt
+class_work/
