@@ -32,3 +32,5 @@ datasets/
 class_work/
 outputs/
 checkpoint/
+__pycache__/
+__init__.py
