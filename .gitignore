@@ -17,6 +17,7 @@ __pycache__/
 venv/
 env/
 .venv/
+.env
 
 # Ignore dataset folders (nếu có data local)
 data/
@@ -29,3 +30,5 @@ datasets/
 
 *.txt
 class_work/
+outputs/
+checkpoint/
